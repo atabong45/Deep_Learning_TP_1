@@ -1,0 +1,24 @@
+# Environnement virtuel Python
+venv/
+env/
+*.venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de données (adaptez si votre dossier de données a un autre nom)
+data/
+*.csv
+*.zip
+
+# Modèles sauvegardés
+*.h5
+*.keras
+saved_model/
+
+# Fichiers spécifiques à l'éditeur ou au système d'exploitation
+.vscode/
+
+
+mlruns/

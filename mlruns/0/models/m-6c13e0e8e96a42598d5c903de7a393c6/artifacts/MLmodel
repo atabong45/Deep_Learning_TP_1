@@ -1,0 +1,20 @@
+artifact_path: file:///home/atabong/Documents/projet/Deep%20Learning/TP%201/mlruns/0/models/m-6c13e0e8e96a42598d5c903de7a393c6/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.10.12
+mlflow_version: 3.4.0
+model_id: m-6c13e0e8e96a42598d5c903de7a393c6
+model_size_bytes: 4907688
+model_uuid: m-6c13e0e8e96a42598d5c903de7a393c6
+prompts: null
+run_id: 7f717aa0c1eb400092027c6bfb98093f
+utc_time_created: '2025-09-24 13:58:18.238243'

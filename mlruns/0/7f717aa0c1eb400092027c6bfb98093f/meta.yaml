@@ -1,0 +1,14 @@
+artifact_uri: file:///home/atabong/Documents/projet/Deep%20Learning/TP%201/mlruns/0/7f717aa0c1eb400092027c6bfb98093f/artifacts
+end_time: 1758722306999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f717aa0c1eb400092027c6bfb98093f
+run_name: rebellious-dog-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758722275778
+status: 3
+tags: []
+user_id: atabong
